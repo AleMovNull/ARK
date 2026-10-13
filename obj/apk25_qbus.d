@@ -1,0 +1,14 @@
+..\obj\apk25_qbus.o: ..\src_user\APK25_QBUS.c
+..\obj\apk25_qbus.o: ..\inc_user\Init_APK25.h
+..\obj\apk25_qbus.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\apk25_qbus.o: ..\inc_system\MDR32F9Qx_board.h
+..\obj\apk25_qbus.o: ..\inc_system\MDR32F9Qx_lib.h
+..\obj\apk25_qbus.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\apk25_qbus.o: ..\inc_system\MDR1986VE1T.h
+..\obj\apk25_qbus.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\apk25_qbus.o: ..\inc_system\core_cm1.h
+..\obj\apk25_qbus.o: ..\inc_system\core_cmInstr.h
+..\obj\apk25_qbus.o: ..\inc_system\core_cmFunc.h
+..\obj\apk25_qbus.o: ..\inc_system\system_MDR1986VE1T.h
+..\obj\apk25_qbus.o: ..\inc_user\APK25_QBUS.h
+..\obj\apk25_qbus.o: ..\inc_std_lib_periph\MDR32F9Qx_port.h

@@ -1,0 +1,42 @@
+*** Creating Trace Output File '..\obj\APK25_2.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\system_mdr1986ve1t.o"'
+### List of Objects: adding '"..\obj\startup_mdr1986ve1t.o"'
+### List of Objects: adding '"..\obj\mdr1986ve1t_it.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_bkp.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_ebc.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_eeprom.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_port.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_rst_clk.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_timer.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_uart.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_adc.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_arinc429r.o"'
+### List of Objects: adding '"..\obj\mdr32f9qx_arinc429t.o"'
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\init_apk25.o"'
+### List of Objects: adding '"..\obj\apk25_angle.o"'
+### List of Objects: adding '"..\obj\apk25_qbus.o"'
+### List of Objects: adding '"..\obj\apk25_chassis.o"'
+### List of Objects: adding '"..\obj\apk25_debug.o"'
+### List of Objects: adding '"..\obj\apk25_sf.o"'
+### List of Objects: adding '"..\obj\apk25_filtr.o"'
+### List of Objects: adding '"..\obj\apk25_fc.o"'
+### List of Objects: adding '"..\obj\apk25_transrec.o"'
+### List of Objects: adding '"..\obj\apk25_modes.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M1 "..\obj\system_mdr1986ve1t.o" "..\obj\startup_mdr1986ve1t.o" "..\obj\mdr1986ve1t_it.o" "..\obj\mdr32f9qx_bkp.o" "..\obj\mdr32f9qx_ebc.o" "..\obj\mdr32f9qx_eeprom.o" "..\obj\mdr32f9qx_port.o" "..\obj\mdr32f9qx_rst_clk.o" "..\obj\mdr32f9qx_timer.o" "..\obj\mdr32f9qx_uart.o" "..\obj\mdr32f9qx_adc.o" "..\obj\mdr32f9qx_arinc429r.o" "..\obj\mdr32f9qx_arinc429t.o" "..\obj\main.o" "..\obj\init_apk25.o" "..\obj\apk25_angle.o" "..\obj\apk25_qbus.o" "..\obj\apk25_chassis.o" "..\obj\apk25_debug.o" "..\obj\apk25_sf.o" "..\obj\apk25_filtr.o" "..\obj\apk25_fc.o" "..\obj\apk25_transrec.o" "..\obj\apk25_modes.o" --strict --scatter "..\obj\APK25_2.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\APK25_2.map" -o "..\obj\APK25_2.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\obj\APK25_2.axf'
+### ADS-LD Command File: '..\obj\APK25_2.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\obj\APK25_2.lnp', Handle=0x000009EC
+### Writing '.lnp' file
+### ADS-LD Command file '..\obj\APK25_2.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

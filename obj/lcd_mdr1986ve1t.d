@@ -1,0 +1,17 @@
+..\obj\lcd_mdr1986ve1t.o: ..\src_user\lcd_MDR1986VE1T.c
+..\obj\lcd_mdr1986ve1t.o: ..\inc_user\lcd.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_board.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_lib.h
+..\obj\lcd_mdr1986ve1t.o: E:\Keil\ARM\RV31\Inc\stdint.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\MDR1986VE1T.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\core_cm1.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\core_cmInstr.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\core_cmFunc.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_system\system_MDR1986VE1T.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_std_lib_periph\MDR32F9Qx_port.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_std_lib_periph\MDR32F9Qx_rst_clk.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_user\types.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_user\lcd_MDR1986VE1T.h
+..\obj\lcd_mdr1986ve1t.o: ..\inc_user\lcd.h

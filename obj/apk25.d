@@ -1,0 +1,16 @@
+..\obj\apk25.o: ..\src_user\APK25.c
+..\obj\apk25.o: ..\inc_system\MDR1986VE1T.h
+..\obj\apk25.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\apk25.o: ..\inc_system\MDR32F9Qx_board.h
+..\obj\apk25.o: ..\inc_system\MDR32F9Qx_lib.h
+..\obj\apk25.o: E:\Keil\ARM\RV31\Inc\stdint.h
+..\obj\apk25.o: ..\inc_system\MDR1986VE1T.h
+..\obj\apk25.o: ..\inc_system\core_cm1.h
+..\obj\apk25.o: ..\inc_system\core_cmInstr.h
+..\obj\apk25.o: ..\inc_system\core_cmFunc.h
+..\obj\apk25.o: ..\inc_system\system_MDR1986VE1T.h
+..\obj\apk25.o: ..\inc_std_lib_periph\MDR32F9Qx_eeprom.h
+..\obj\apk25.o: ..\inc_std_lib_periph\MDR32F9Qx_port.h
+..\obj\apk25.o: ..\inc_std_lib_periph\MDR32F9Qx_timer.h
+..\obj\apk25.o: ..\inc_std_lib_periph\MDR32F9Qx_uart.h
+..\obj\apk25.o: ..\inc_user\APK25.h
