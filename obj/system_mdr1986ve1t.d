@@ -1,0 +1,11 @@
+..\obj\system_mdr1986ve1t.o: ..\src_system\system_MDR1986VE1T.c
+..\obj\system_mdr1986ve1t.o: ..\inc_system\MDR1986VE1T.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_board.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\MDR32F9Qx_lib.h
+..\obj\system_mdr1986ve1t.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\MDR1986VE1T.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\core_cm1.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\core_cmInstr.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\core_cmFunc.h
+..\obj\system_mdr1986ve1t.o: ..\inc_system\system_MDR1986VE1T.h

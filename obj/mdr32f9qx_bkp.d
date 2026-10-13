@@ -1,0 +1,13 @@
+..\obj\mdr32f9qx_bkp.o: ..\src_std_lib_periph\MDR32F9Qx_bkp.c
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\MDR32F9Qx_board.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\MDR32F9Qx_lib.h
+..\obj\mdr32f9qx_bkp.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\MDR1986VE1T.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\MDR32F9Qx_config.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\core_cm1.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\core_cmInstr.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\core_cmFunc.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_system\system_MDR1986VE1T.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_std_lib_periph\MDR32F9Qx_bkp.h
+..\obj\mdr32f9qx_bkp.o: ..\inc_std_lib_periph\MDR32F9Qx_rst_clk.h
